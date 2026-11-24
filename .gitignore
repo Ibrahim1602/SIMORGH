@@ -1,0 +1,14 @@
+# dataset
+AICity22_Track1_MTMC_Tracking/
+
+# old code
+old version/
+
+# Python cache
+__pycache__/
+
+# tracking outputs
+tracks/
+
+# largw model weights
+*.pt

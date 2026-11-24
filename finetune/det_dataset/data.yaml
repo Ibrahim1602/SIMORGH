@@ -1,0 +1,5 @@
+path: C:/Users/BaneH/Desktop/AI CV PROJECT/finetune/det_dataset
+train: images/train
+val: images/train
+names:
+  0: car

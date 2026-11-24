@@ -1,0 +1,10 @@
+{
+ "slack": 2.0,
+ "overlap_m": 40.0,
+ "max_gap": 142.19898999999995,
+ "max_speed": 46.32689570744682,
+ "min_dist": 25.0,
+ "min_speed": 1.0,
+ "cos_ok": -0.5,
+ "cos_bad": -1.0
+}
